@@ -1,0 +1,20 @@
+
+##Python Cache 
+**/__pycache__ 
+
+##Dask Workers 
+**/dask*/*.*
+
+##Executables 
+**/*.exe 
+**/*.bin 
+
+##Databases 
+**/*.db 
+**/*.sqlite 
+**/*.sqlite3 
+
+##Encrypted Files
+**/*.id 
+**/*.jihyo 
+**/*.encrypted 
